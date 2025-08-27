@@ -50,7 +50,7 @@
 
 ## 📫 Connect with Me  
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.81nhn9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:81nhn9@gmail.com)
 
 ---
 ⭐️ From [Fatimah](https://github.com/YOUR_GITHUB_l18f)  
